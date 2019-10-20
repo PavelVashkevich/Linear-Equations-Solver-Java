@@ -1,6 +1,6 @@
 package range;
 
-public class MainSolver {
+public class Solver {
     public static void main(String[] args) {
 
         String inFile = null, outFile = null;
